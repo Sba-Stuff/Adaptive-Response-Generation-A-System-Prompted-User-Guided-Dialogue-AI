@@ -1,6 +1,8 @@
 # Adaptive Response Generation: Project Overview
 
 This project explores the potential of combining system prompts and user inputs to create more nuanced and adaptable dialogue AI systems. It leverages LM Studio for local processing, enabling experimentation with diverse response styles without requiring a full cloud-based service.  The core idea is to allow users to exert influence on *both* the system prompt *and* the user's input, resulting in a richer and more dynamic interaction.
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c0488fad-c4d2-4fcb-84d7-25163b782e12" />
+
 
 **1. Goals:**
 
